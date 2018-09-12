@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Westin Hotel",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.536475, -76.560496]
+		}
+	},
+	{
+		"name": "Capital Building",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.5806787,-76.1281287]
+		}
+	},
+	{
+		"name": "The National",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.9602688,-75.1660198]
+		}
+			},
+	{
+		"name": "Glenside Dr Waffle House",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.82066,-76.1216018]
+		}
+	},
+	{
+		"name": "Circuit Arcade",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.9692001,-76.133916]
+		}
+	}
+
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Imperial II-class frigate",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.9496666,-76.1458754]
+		}
+	},
+	{
+		"name": "Dreadnaught-class heavy cruiser",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.950712,-76.144814]
+		}
+	},
+	{
+		"name": "Imperial Leviathan",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.953124,-76.143077]
+		}
+	},
+	{
+		"name": "Acclamator II-class assault ship",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.949462,-76.166734]
+		}
+	},
+	{
+		"name": "Executor-class Star Dreadnought",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.937587,-76.153215]
+		}
+	},
+	{
+		"name": "Arquitens-class light cruiser",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.932930,-76.157639]
+		}
+	},
+	{
+		"name": "Gamma-class ATR-6 assault transport",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.926947,-76.171025]
+		}
+	}
+	
+]
